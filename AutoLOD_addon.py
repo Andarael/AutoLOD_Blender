@@ -4,17 +4,17 @@ from bpy.props import PointerProperty
 
 # ---------- ---------- Addon infos ---------- ----------
 
-# bl_info = {
-#    "name": "AutoLODs",
-#    "author": "Josué Raad",
-#    "version": (1, 0),
-#    "blender": (2, 80, 0),
-#    "location": "View3D > Tools > LODs",
-#    "description": "Allow to create and apply LODs based on the distance from camera",
-#    "warning": "",
-#    "doc_url": "",
-#    "category": "Object",
-#}
+ bl_info = {
+    "name": "AutoLODs",
+    "author": "Josué Raad",
+    "version": (1, 2),
+    "blender": (2, 80, 0),
+    "location": "View3D > Tools > LODs",
+    "description": "Allow to create, apply and export LODs based on the distance from camera",
+    "warning": "",
+    "doc_url": "",
+    "category": "Object",
+}
 
 # ---------- ---------- Global definitions ---------- ----------
 
