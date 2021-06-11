@@ -4,7 +4,7 @@ from bpy.props import PointerProperty
 
 # ---------- ---------- Addon infos ---------- ----------
 
- bl_info = {
+bl_info = {
     "name": "AutoLODs",
     "author": "Josué Raad",
     "version": (1, 2),
@@ -13,7 +13,7 @@ from bpy.props import PointerProperty
     "description": "Allow to create, apply and export LODs based on the distance from camera",
     "warning": "",
     "doc_url": "",
-    "category": "Object",
+    "category": "Object"
 }
 
 # ---------- ---------- Global definitions ---------- ----------
